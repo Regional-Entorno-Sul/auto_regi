@@ -1,4 +1,4 @@
-# auto_regi
+# **auto_regi**
 Automatização de processos
 O auto_regi:
 Permite identificar notificações que estão com o campo data de encerramento em branco, dando oportunidade ao município de encerrar oportunamente a notificação, conforme preconiza o indicador 06 do PQAVS;
