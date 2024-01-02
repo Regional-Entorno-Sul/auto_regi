@@ -11,3 +11,4 @@ O auto_regi:
 
 *Possibilita a identificação de notificações de violência interpessoal e autoprovocada (Y09), demonstrando quais as notificações com o campo raça/cor não estão preenchidas ou se estão preenchidas com informação inválida, conforme avaliado pelo indicador 14 do PQAVS;
 
+*Identifica registros na tabela de doenças exógenas relacionadas ao trabalho que não possui registros correspondentes na tabela de acidentes de trabalho, possibilitando que o município faça a notificação devida no agravo de acidentes de trabalho (CID Y96).
