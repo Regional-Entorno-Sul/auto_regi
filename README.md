@@ -15,6 +15,6 @@ Relatório 4: Identifica registros na tabela de doenças exógenas relacionadas 
 
 Sintaxe do executável:
 
-~~~
+~~~Prompt de comando do Windows (CMD)
 auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress
 ~~~
