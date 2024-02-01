@@ -13,6 +13,8 @@ Relatório 3: Possibilita a identificação de notificações de violência inte
 
 Relatório 4: Procura nos arquivos de exportação de Dengue, inconsistências nos campos "evolução" e "data de encerramento". Tais inconsistências podem comprometer o indicador desse agravo em municípios que pactuaram com o projeto de cofinanciamento das ações de vigilância em saúde (2023);
 
+Relatório 5: Busca na base de dados de tuberculose, os campos inconsistentes a serem avaliados, conforme o que foi estipulado no projeto de cofinanciamento das ações de vigilância em saúde (2023) para esse agravo.
+
 Sintaxe do executável:
 
 ~~~
