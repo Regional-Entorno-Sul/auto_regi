@@ -5,13 +5,11 @@ O auto_regi é um programa que automatiza alguns processos usados na Vigilância
 
 Relatórios gerados pelo auto_regi:
 
-Relatório 1: identifica as notificações que estão com o campo data de encerramento em branco, dando oportunidade ao município de encerrar oportunamente a notificação, conforme preconiza o indicador 06 do PQAVS;
+Relatório 1: Identifica nos agravos de acidente de trabalho, acidente de trabalho com exposição a material biológico e de intoxicação exógena (desde que relacionada ao trabalho), quais são as notificações cujos campos “Ocupação” e “Atividade Econômica (CNAE)” não foram preenchidos, de forma que se adequem ao indicador 13 do PQAVS.
 
-Relatório 2: Identifica nos agravos de acidente de trabalho, acidente de trabalho com exposição a material biológico e de intoxicação exógena (desde que relacionada ao trabalho), quais são as notificações cujos campos “Ocupação” e “Atividade Econômica (CNAE)” não foram preenchidos, de forma que se adequem ao indicador 13 do PQAVS.
+Relatório 2: identifica as notificações que estão com o campo data de encerramento em branco, dando oportunidade ao município de encerrar oportunamente a notificação, conforme preconiza o indicador 06 do PQAVS;
 
 Relatório 3: Possibilita a identificação de notificações de violência interpessoal e autoprovocada (Y09), demonstrando quais as notificações com o campo raça/cor não estão preenchidas ou se estão preenchidas com informação inválida, conforme avaliado pelo indicador 14 do PQAVS;
-
-Relatório 4: Identifica registros na tabela de doenças exógenas relacionadas ao trabalho que não possui registros correspondentes na tabela de acidentes de trabalho, possibilitando que o município faça a notificação devida no agravo de acidentes de trabalho (CID Y96).
 
 Sintaxe do executável:
 
