@@ -19,7 +19,7 @@ Relatório 6: Faz o cruzamento do arquivo padrão de exportação de Dengue com 
 
 Relatório 7: Identifica data de encerramento em branco nas notificações de atendimento antirrábico humano.
 
-Relatório 8: Cruza os dados do arquivo de padrão de exportação de dados de D.O. com o arquivo de dados de Tuberculose do SINAN NET, procurando identificar casos de óbitos por Tuberculose nos registros do SIM que não estão registrados no SINAN NET.
+Relatório 8: Cruza os dados do arquivo padrão de exportação de dados de D.O. com o arquivo de dados de Tuberculose do SINAN NET, procurando identificar casos de óbitos por Tuberculose nos registros do SIM que não estão registrados no SINAN NET.
 
 Sintaxe do executável:
 
