@@ -17,12 +17,14 @@ Relatório 5: Busca na base de dados de tuberculose, os campos inconsistentes a 
 
 Relatório 6: Faz o cruzamento do arquivo padrão de exportação de Dengue com o arquivo de exportação de dados de D.O., com o objetivo de identificar casos de óbitos de Dengue que não foram notificados no SINAN Online, sistema onde são registrados os casos de Dengue;
 
-Relatório 7: Identifica data de encerramento em branco nas notificações de atendimento antirrábico humano.
+Relatório 7: Identifica data de encerramento em branco nas notificações de atendimento antirrábico humano;
 
-Relatório 8: Cruza os dados do arquivo padrão de exportação de dados de D.O. com o arquivo de dados de Tuberculose do SINAN NET, procurando identificar casos de óbitos por Tuberculose nos registros do SIM que não estão registrados no SINAN NET.
+Relatório 8: Cruza os dados do arquivo padrão de exportação de dados de D.O. com o arquivo de dados de Tuberculose do SINAN NET, procurando identificar casos de óbitos por Tuberculose nos registros do SIM que não estão registrados no SINAN NET;
+
+Relatório 9: Procura por inconsistências na base de dados de Hanseniase, identificando os campos com registros em desacordo com os indicadores preconizados pelo projeto de cofinanciamento das ações de vigilância em saúde.
 
 Sintaxe do executável:
 
 ~~~
-auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t]
+auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] --list
 ~~~
