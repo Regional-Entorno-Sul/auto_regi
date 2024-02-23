@@ -15,7 +15,7 @@ Relatório 4: Procura nos arquivos de exportação de Dengue, inconsistências n
 
 Relatório 5: Busca na base de dados de tuberculose, os campos inconsistentes a serem avaliados, conforme o que foi estipulado no projeto de cofinanciamento das ações de vigilância em saúde (2023) para esse agravo;
 
-Relatório 6: Faz o cruzamento do arquivo padrão de exportação de Dengue com o arquivo de exportação de dados de D.O., com o objetivo de identificar casos de óbitos de Dengue que não foram notificados no SINAN Online, sistema onde são registrados os casos de Dengue;
+Relatório 6: Faz o cruzamento do arquivo padrão de exportação de Dengue com o arquivo de exportação de dados de D.O., com o objetivo de identificar casos de óbitos que não foram notificados no SINAN Online, sistema onde são registrados as notificações de Dengue;
 
 Relatório 7: Identifica data de encerramento em branco nas notificações de atendimento antirrábico humano;
 
