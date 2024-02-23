@@ -23,7 +23,9 @@ Relatório 8: Cruza os dados do arquivo padrão de exportação de dados de D.O.
 
 Relatório 9: Procura por inconsistências na base de dados de Hanseniase, identificando os campos com registros em desacordo com os indicadores preconizados pelo projeto de cofinanciamento das ações de vigilância em saúde.
 
-Relatório 10: Identifica notificações de SRAG não consistentes com o que está preconizado pelo projeto de cofinanciamento das ações de vigilância em saúde (2023).
+Relatório 10: Identifica, usando o arquivo de exportação do SIVEP Gripe, notificações de SRAG com os campos "classificação final", "evolução", "resultado RT-PCR" em desacordo com o que está preconizado pelo projeto de cofinanciamento das ações de vigilância em saúde (2023).
+
+Relatório 11: Possibilita por meio do arquivo de exportação gerado no e-SUS VE Notifica, identificar registros inconsistentes nessa base de dados;
 
 Sintaxe do executável:
 
