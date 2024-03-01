@@ -27,6 +27,8 @@ Relatório 10: Identifica, usando o arquivo de exportação do SIVEP Gripe, noti
 
 Relatório 11: Possibilita por meio do arquivo de exportação gerado no e-SUS VE Notifica, identificar registros inconsistentes nessa base de dados;
 
+Relatório 12: Identifica inconsistências no agravo "Sifílis em Gestantes", possibilitando a correção de certos campos que influem nos indicadores usados para pontuação no projeto de cofinanciamento das ações de vigilância em saúde (2023).
+
 Sintaxe do executável:
 
 ~~~
