@@ -32,5 +32,5 @@ Relatório 12: Identifica inconsistências no agravo "Sifílis em Gestantes", po
 Sintaxe do executável:
 
 ~~~
-auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] --list
+auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] --list --clean
 ~~~
