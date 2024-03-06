@@ -29,6 +29,8 @@ Relatório 11: Possibilita por meio do arquivo de exportação gerado no e-SUS V
 
 Relatório 12: Identifica inconsistências no agravo "Sifílis em Gestantes", possibilitando a correção de certos campos que influem nos indicadores usados para pontuação no projeto de cofinanciamento das ações de vigilância em saúde (2023).
 
+Relatório 13: Busca na base de dados de surto do SINAN NET, os campos que estão em desacordo com os critérios estabelecidos para pontuação, segundo o projeto de cofinanciamento das ações de vigilância em saúde (2023).
+
 Sintaxe do executável:
 
 ~~~
