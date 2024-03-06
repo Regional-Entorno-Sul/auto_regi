@@ -35,4 +35,20 @@ Sintaxe do executável:
 
 ~~~
 auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] --list --clean
+
+--help              Exibe um resumo dos parametros disponiveis pelo programa.                            
+--ver               Exibe a versao atual do programa.                                                    
+--date              Processa os dados dentro de um periodo especifico delimitado pela [data inicial]     
+                    e [data final]. As datas devem estar no formato dd/mm/aaaa. Exemplo:                 
+                    --date 01/01/2020 15/07/2022                                                         
+--nokeypress [t]    Impede que o programa seja interrompido e o processamento seja retomado apenas se    
+                    o usuario pressionar uma tecla. Ideal para processamento de dados em lote.           
+                    [t] e o tempo de espera em segundos, que pode ser 0 ate 100000. Caso [t] nao         
+                    seja especificado, o tempo de espera padrao e de 8 segundos.                         
+--list              Delimita o processamento a um ou mais municipios que devem ter os seus codigos       
+                    relacionados em uma lista dentro do arquivo 'list_muns.txt' no diretorio 'auto_regi/ 
+                    set'.                                                                                
+--clean             Limpa os diretorios 'tmp' e 'rel' que contem, respectivamente, arquivos temporarios  
+                    e relatorios que podem estar desatualizados. Os arquivos excluidos sao apenas aque-  
+                    les com extensao dbf e ntx. Esse argumento e util para testes e sessoes de debug.    
 ~~~
