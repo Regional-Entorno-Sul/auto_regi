@@ -59,5 +59,5 @@ auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] -
 ![x](/pictures/release.jpg)
 2. Usando um descompactador da sua preferência (WinZip, WinRAR, 7Zip, etc), decompacte o arquivo que você fez o download (auto_regi.rar)  
 
-![x](/pictures/release.jpg)
+![x](/pictures/7zip.jpg)
 
