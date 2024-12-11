@@ -47,8 +47,10 @@ auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] -
                     seja especificado, o tempo de espera padrao e de 8 segundos.                         
 --list              Delimita o processamento a um ou mais municipios que devem ter os seus codigos       
                     relacionados em uma lista dentro do arquivo 'list_muns.txt' no diretorio 'auto_regi/ 
-                    set'.                                                                                
+                    set'.
+                                                                               
 --clean             Limpa os diretorios 'tmp' e 'rel' que contem, respectivamente, arquivos temporarios  
                     e relatorios que podem estar desatualizados. Os arquivos excluidos sao apenas aque-  
                     les com extensao dbf e ntx. Esse argumento e util para testes e sessoes de debug.    
 ~~~
+## Como usar?
