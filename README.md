@@ -54,4 +54,4 @@ auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] -
                     les com extensao dbf e ntx. Esse argumento e util para testes e sessoes de debug.    
 ~~~
 ## Como usar?
-1. Fazer o download do release mais atualizado. Atualmente é a versão 
+1. Fazer o download do release mais atualizado. Atualmente é a versão 2.2.
