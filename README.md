@@ -57,4 +57,7 @@ auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] -
 1. Fazer o download da versão mais atualizada na área de releases. Atualmente é a versão 2.2.
 
 ![x](/pictures/release.jpg)
+2. Usando um descompactador da sua preferência (WinZip, WinRAR, 7Zip, etc), decompacte o arquivo que você fez o download (auto_regi.rar)  
+
+![x](/pictures/release.jpg)
 
