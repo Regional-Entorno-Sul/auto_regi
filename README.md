@@ -55,3 +55,6 @@ auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] -
 ~~~
 ## Como usar?
 1. Fazer o download da versão mais atualizada na área de releases. Atualmente é a versão 2.2.
+
+![x] (/pictures/release.jpg)
+
