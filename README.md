@@ -54,11 +54,14 @@ auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] -
                     les com extensao dbf e ntx. Esse argumento e util para testes e sessoes de debug.    
 ~~~
 ## Como usar?
-1. Fazer o download da versão mais atualizada na área de releases. Atualmente é a versão 2.2.
+1. Fazer o download da versão mais atualizada na área de releases. Atualmente é a versão 2.2;
 
 ![x](/pictures/release.jpg)
-2. Usando um descompactador da sua preferência (WinZip, WinRAR, 7Zip, etc), decompacte o arquivo que você fez o download (auto_regi.rar)  
+2. Usando um descompactador da sua preferência (WinZip, WinRAR, 7Zip, etc), decompacte o arquivo que você fez o download (auto_regi.rar);  
 
 ![x](/pictures/7zip.jpg)
 
-3. A pasta resultante do processo de descompactação (auto_regi) 
+3. A pasta resultante do processo de descompactação (auto_regi) deve ser movida para o disco local C ou unidade local C do seu PC;  
+
+![x](/pictures/folder_a.jpg)
+
