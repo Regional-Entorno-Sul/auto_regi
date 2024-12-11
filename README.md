@@ -75,11 +75,11 @@ auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] -
 ![x](/pictures/sinan_net.jpg)
 
 5. Uma vez gerados esses arquivos pelo SINAN NET, estes devem ser copiados da subpasta "BaseDBF" do SinanNet. Segue abaixo o nome dos arquivos no formato DBF gerados pelo módulo de exportação:  
-**NINDINET.DBF**  
-**CNAENET.DBF**  
-**OCUPANET.DBF**  
-**MUNICNET.DBF**  
-**REGIONET.DBF**  
+**NINDINET.DBF;**  
+**CNAENET.DBF;**  
+**OCUPANET.DBF;**  
+**MUNICNET.DBF;**  
+**REGIONET.DBF;**  
 
 
 
