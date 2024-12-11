@@ -65,7 +65,16 @@ auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] -
 
 ![x](/pictures/folder_a.jpg)
 
-4. O programa "auto_regi" precisa de uma série de arquivos chamados de tabelas basicas para funcionar. Também precisa do arquivo "nindinet.dbf". Esses arquivos são gerados pelo programa SINAN NET usando o módulo de exportação de arquivos DBF;  
+4. O programa "auto_regi" precisa de uma série de arquivos chamados de tabelas basicas para funcionar. Também precisa do arquivo "nindinet.dbf". Esses arquivos são gerados pelo programa SINAN NET usando o módulo de exportação de arquivos DBF. Os arquivos a serem gerados no módulo são os seguintes:
+**Notificação individual;**
+**Município;**
+**Regional;**
+**Ocupação;**
+**CNAE;**
+
 
 ![x](/pictures/sinan_net.jpg)
+
+5. Uma vez gerados esses arquivos
+
 
