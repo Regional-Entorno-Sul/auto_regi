@@ -61,3 +61,4 @@ auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] -
 
 ![x](/pictures/7zip.jpg)
 
+3. A pasta resultante do processo de descompactação (auto_regi) 
