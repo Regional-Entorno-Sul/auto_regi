@@ -82,7 +82,7 @@ auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] -
 **REGIONET.DBF;**  
 
 ![x](/pictures/sinan_files_1.jpg)
-6. Em seguida os arquivos devem ser colados ma subpasta ""
+6. Em seguida os arquivos devem ser colados na subpasta "dbf" dentro do diretório "auto_regi"
 
 
 
