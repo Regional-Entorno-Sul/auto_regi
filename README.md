@@ -87,10 +87,11 @@ auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] -
 ![x](/pictures/sinan_files2.jpg)  
 
 Além dos arquivos mostrados acima, para o processamento dos relatórios é necessário os seguintes arquivos:  
+
 **Relatório 1**
 - Arquivo de exportação DBF de acidentes de trabalho (acgranet.dbf) gerado no SINAN NET;
 - Arquivo de exportação de acidente de trabalho com exposição a material biológico (acbionet.dbf) gerado no SINAN NET;
-- Arquivo de exportação de intoxicaçao exógena (iexognet.dbf) gerado no SINAN NET.
+- Arquivo de exportação de intoxicaçao exógena (iexognet.dbf) gerado no SINAN NET.  
 Copiar esses arquivos e colar na subpasta "dbf" dentro do diretório do "auto_regi".
 
 
