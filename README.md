@@ -99,9 +99,9 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 **Relatório 2**  
 - Copiar o arquivo de exportação DBF de notificações individuais (nindinet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";
 - Gerar o arquivo de exportação de Dengue no SINAN Online e colar na subpasta "C:\auto_regi\tmp\dnci\deng";
-- Gerar o arquivo de exportação de Febre de Chikungunya e colar na subpasta "C:\auto_regi\tmp\dnci\chik";
+- Gerar o arquivo de exportação de Febre de Chikungunya e colar na subpasta "C:\auto_regi\tmp\dnci\chik";  
 
-
+![x](/pictures/relat2_deng.jpg)  
 
 
 
