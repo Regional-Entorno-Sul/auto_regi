@@ -96,7 +96,7 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 
 ![x](/pictures/relat1.jpg)  
 
-Os arquivos resultantes do processamento do relatório 1 estão na subpasta "C:\auto_regi\rel\rel1".
+- Os arquivos resultantes do processamento do relatório 1 estão na subpasta "C:\auto_regi\rel\rel1".
 
 ![x](/pictures/rel1_output.jpg)  
 
@@ -107,10 +107,14 @@ Os arquivos resultantes do processamento do relatório 1 estão na subpasta "C:\
 
 ![x](/pictures/relat2_deng.jpg)  
 
-Os arquivos resultantes do processamento do relatório 2 estão na subpasta "C:\auto_regi\rel\rel2".
+- Os arquivos resultantes do processamento do relatório 2 estão na subpasta "C:\auto_regi\rel\rel2".
 
 ![x](/pictures/rel2_output.jpg)  
 
+**Relatório 2**  
+
+- Copiar o arquivo de exportação DBF de violência doméstica, sexual e/ou outras violencias (violenet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
+- Os arquivos resultantes do processamento do relatório 2 estão na subpasta "C:\auto_regi\rel\rel3".
 
 
 
