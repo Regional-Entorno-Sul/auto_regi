@@ -96,6 +96,8 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 
 ![x](/pictures/relat1.jpg)  
 
+Os arquivos resultantes do processamento do relatório 1 estão na subpasta "C:\auto_regi\rel\rel1".
+
 **Relatório 2**  
 - Copiar o arquivo de exportação DBF de notificações individuais (nindinet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";
 - Gerar o arquivo de exportação de Dengue no SINAN Online e colar na subpasta "C:\auto_regi\tmp\dnci\deng";
