@@ -107,7 +107,9 @@ Os arquivos resultantes do processamento do relatório 1 estão na subpasta "C:\
 
 ![x](/pictures/relat2_deng.jpg)  
 
+Os arquivos resultantes do processamento do relatório 2 estão na subpasta "C:\auto_regi\rel\rel2".
 
+![x](/pictures/rel2_output.jpg)  
 
 
 
