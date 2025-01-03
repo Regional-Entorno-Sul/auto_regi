@@ -137,4 +137,10 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 - Copiar o arquivo de exportação DBF de "atendimento anti-rábico" (antranet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
 - Os arquivos resultantes do processamento do relatório 7 estão na subpasta "C:\auto_regi\rel\rel7".
 
+**Relatório 8**  
+
+- Copiar o arquivo de exportação DBF de Tuberculose (tubenet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
+
+
+
 
