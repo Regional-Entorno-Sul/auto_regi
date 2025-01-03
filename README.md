@@ -121,4 +121,8 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 - Gerar o arquivo de exportação de Dengue no SINAN Online e colar na subpasta "C:\auto_regi\tmp\cofi\deng";
 - Os arquivos resultantes do processamento do relatório 4 estão na subpasta "C:\auto_regi\rel\rel4".
 
+**Relatório 5**  
+
+- Copiar o arquivo de exportação DBF de Tuberculose (tubenet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
+- Os arquivos resultantes do processamento do relatório 5 estão na subpasta "C:\auto_regi\rel\rel5".
 
