@@ -148,7 +148,7 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 **Relatório 9**  
 
 - Copiar o arquivo de exportação DBF de Hanseníase (hansnet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
-  
+- Os arquivos resultantes do processamento do relatório 9 estão na subpasta "C:\auto_regi\rel\rel9".
   
 
 
