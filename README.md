@@ -150,5 +150,9 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 - Copiar o arquivo de exportação DBF de Hanseníase (hansnet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
 - Os arquivos resultantes do processamento do relatório 9 estão na subpasta "C:\auto_regi\rel\rel9".
   
+**Relatório 10**  
+
+- Gerar no SIVEP Gripe o arquivo de exportação do SIVEP Gripe de SRAG hospitalizado. Colar na subpasta "C:\auto_regi\tmp\tube_do\";
+
 
 
