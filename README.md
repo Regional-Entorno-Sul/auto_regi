@@ -59,7 +59,7 @@ auto_regi.exe --help --ver --date [data inicial] [data final] --nokeypress [t] -
 ![x](/pictures/release.jpg)
 2. Usando um descompactador da sua preferência (WinZip, WinRAR, 7Zip, etc), decompacte o arquivo que você fez o download (auto_regi.rar);  
 
-![x](/pictures/7zip.jpg)
+![x](/pictures/7zip_2.jpg)
 
 3. A pasta resultante do processo de descompactação (auto_regi) deve ser movida para o disco local C ou unidade local C do seu PC;  
 
