@@ -145,4 +145,10 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 
 ![x](/pictures/tube_do.jpg)  
   
+**Relatório 9**  
+
+- Copiar o arquivo de exportação DBF de Hanseníase (hansnet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
   
+  
+
+
