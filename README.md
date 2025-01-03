@@ -129,7 +129,12 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 **Relatório 6**  
 
 - Gerar o arquivo de exportação de Dengue no SINAN Online e colar na subpasta "C:\auto_regi\tmp\do_deng\deng";
-- Gerar o arquivo de exportação de óbitos no SIM e colar na subpasta "C:\auto_regi\tmp\do_deng\do\".
+- Gerar o arquivo de exportação de óbitos no SIM e colar na subpasta "C:\auto_regi\tmp\do_deng\do\";
 - Os arquivos resultantes do processamento do relatório 6 estão na subpasta "C:\auto_regi\rel\rel6".
+
+**Relatório 7**  
+
+- Copiar o arquivo de exportação DBF de "atendimento anti-rábico" (antranet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
+- Os arquivos resultantes do processamento do relatório 7 estão na subpasta "C:\auto_regi\rel\rel7".
 
 
