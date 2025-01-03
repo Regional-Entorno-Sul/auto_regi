@@ -153,6 +153,6 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 **Relatório 10**  
 
 - Gerar no SIVEP Gripe o arquivo de exportação de SRAG hospitalizado. Colar na subpasta "c:\auto_regi\tmp\cofi\srag".  
-  
+- Os arquivos resultantes do processamento do relatório 10 estão na subpasta "C:\auto_regi\rel\rel10".
   
   
