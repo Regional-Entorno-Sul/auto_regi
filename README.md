@@ -113,7 +113,7 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 
 **Relatório 3**  
 
-- Copiar o arquivo de exportação DBF de violência doméstica, sexual e/ou outras violencias (violenet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
+- Copiar o arquivo de exportação DBF de "violência doméstica, sexual e/ou outras violencias" (violenet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
 - Os arquivos resultantes do processamento do relatório 3 estão na subpasta "C:\auto_regi\rel\rel3".
 
 **Relatório 4**  
