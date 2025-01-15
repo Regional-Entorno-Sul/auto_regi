@@ -155,4 +155,11 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 - Gerar no SIVEP Gripe o arquivo de exportação de SRAG hospitalizado. Colar na subpasta "c:\auto_regi\tmp\cofi\srag".  
 - Os arquivos resultantes do processamento do relatório 10 estão na subpasta "C:\auto_regi\rel\rel10".
   
-  
+**Relatório 11**  
+
+- Gerar no e-SUS VE Notifica, um arquivo de exportação de casos de Coronavirus. Colar o arquivo gerado na subpasta "c:\auto_regi\tmp\esus".
+
+
+
+
+
