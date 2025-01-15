@@ -96,7 +96,7 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 
 ![x](/pictures/relat1.jpg)  
 
-- Os arquivos resultantes do processamento do relatório 1 estão na subpasta "C:\auto_regi\rel\rel1".
+- Os arquivos resultantes do processamento do relatório 1 estarão na subpasta "C:\auto_regi\rel\rel1".
 
 ![x](/pictures/rel1_output.jpg)  
 
@@ -107,62 +107,62 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 
 ![x](/pictures/relat2_deng.jpg)  
 
-- Os arquivos resultantes do processamento do relatório 2 estão na subpasta "C:\auto_regi\rel\rel2".
+- Os arquivos resultantes do processamento do relatório 2 estarão na subpasta "C:\auto_regi\rel\rel2".
 
 ![x](/pictures/rel2_output.jpg)  
 
 **Relatório 3**  
 
 - Copiar o arquivo de exportação DBF de "violência doméstica, sexual e/ou outras violencias" (violenet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
-- Os arquivos resultantes do processamento do relatório 3 estão na subpasta "C:\auto_regi\rel\rel3".
+- Os arquivos resultantes do processamento do relatório 3 estarão na subpasta "C:\auto_regi\rel\rel3".
 
 **Relatório 4**  
 
 - Gerar o arquivo de exportação de Dengue no SINAN Online e colar na subpasta "C:\auto_regi\tmp\cofi\deng";
-- Os arquivos resultantes do processamento do relatório 4 estão na subpasta "C:\auto_regi\rel\rel4".
+- Os arquivos resultantes do processamento do relatório 4 estarão na subpasta "C:\auto_regi\rel\rel4".
 
 **Relatório 5**  
 
 - Copiar o arquivo de exportação DBF de Tuberculose (tubenet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
-- Os arquivos resultantes do processamento do relatório 5 estão na subpasta "C:\auto_regi\rel\rel5".
+- Os arquivos resultantes do processamento do relatório 5 estarão na subpasta "C:\auto_regi\rel\rel5".
 
 **Relatório 6**  
 
 - Gerar o arquivo de exportação de Dengue no SINAN Online e colar na subpasta "C:\auto_regi\tmp\do_deng\deng";
 - Gerar o arquivo de exportação de óbitos no SIM e colar na subpasta "C:\auto_regi\tmp\do_deng\do\";
-- Os arquivos resultantes do processamento do relatório 6 estão na subpasta "C:\auto_regi\rel\rel6".
+- Os arquivos resultantes do processamento do relatório 6 estarão na subpasta "C:\auto_regi\rel\rel6".
 
 **Relatório 7**  
 
 - Copiar o arquivo de exportação DBF de "atendimento anti-rábico" (antranet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
-- Os arquivos resultantes do processamento do relatório 7 estão na subpasta "C:\auto_regi\rel\rel7".
+- Os arquivos resultantes do processamento do relatório 7 estarão na subpasta "C:\auto_regi\rel\rel7".
 
 **Relatório 8**  
 
 - Copiar o arquivo de exportação DBF de Tuberculose (tubenet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
 - Gerar o arquivo de exportação de óbitos no SIM e colar na subpasta "C:\auto_regi\tmp\tube_do\";
-- Os arquivos resultantes do processamento do relatório 8 estão na subpasta "C:\auto_regi\rel\rel8".
+- Os arquivos resultantes do processamento do relatório 8 estarão na subpasta "C:\auto_regi\rel\rel8".
 
 ![x](/pictures/tube_do.jpg)  
   
 **Relatório 9**  
 
 - Copiar o arquivo de exportação DBF de Hanseníase (hansnet.dbf) gerado no SINAN NET e colar na subpasta "dbf" dentro do diretório do "auto_regi";  
-- Os arquivos resultantes do processamento do relatório 9 estão na subpasta "C:\auto_regi\rel\rel9".
+- Os arquivos resultantes do processamento do relatório 9 estarão na subpasta "C:\auto_regi\rel\rel9".
   
 **Relatório 10**  
 
 - Gerar no SIVEP Gripe o arquivo de exportação de SRAG hospitalizado. Colar na subpasta "c:\auto_regi\tmp\cofi\srag";  
-- Os arquivos resultantes do processamento do relatório 10 estão na subpasta "C:\auto_regi\rel\rel10".
+- Os arquivos resultantes do processamento do relatório 10 estarão na subpasta "C:\auto_regi\rel\rel10".
   
 **Relatório 11**  
 
 - Gerar no e-SUS VE Notifica, um arquivo de exportação de casos de Coronavirus. Colar o arquivo gerado na subpasta "c:\auto_regi\tmp\esus";
-- Os arquivos resultantes do processamento do relatório 11 estão na subpasta "C:\auto_regi\rel\rel11".
+- Os arquivos resultantes do processamento do relatório 11 estarão na subpasta "C:\auto_regi\rel\rel11".
 
 **Relatório 12**  
 
-- Gerar no SINAN NET, o arquivo de exportação de "Sifilis em gestante" (sifgenet.dbf), copiar o arquivo e colar na subpasta "dbf" dentro do diretório do "auto_regi".
-
+- Gerar no SINAN NET, o arquivo de exportação de "Sifilis em gestante" (sifgenet.dbf), copiar o arquivo e colar na subpasta "dbf" dentro do diretório do "auto_regi";
+- Os arquivos resultantes do processamento do relatório 12 estarão na subpasta "C:\auto_regi\rel\rel12".
 
 
