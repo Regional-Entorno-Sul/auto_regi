@@ -162,4 +162,7 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 
 **Relatório 12**  
 
-- Gerar no SINAN NET, o arquivo de exportação de 
+- Gerar no SINAN NET, o arquivo de exportação de "Sifilis em gestante" (sifgenet.dbf), copiar o arquivo e colar na subpasta "dbf" dentro do diretório do "auto_regi".
+
+
+
