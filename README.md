@@ -160,6 +160,6 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 - Gerar no e-SUS VE Notifica, um arquivo de exportação de casos de Coronavirus. Colar o arquivo gerado na subpasta "c:\auto_regi\tmp\esus";
 - Os arquivos resultantes do processamento do relatório 11 estão na subpasta "C:\auto_regi\rel\rel11".
 
+**Relatório 12**  
 
-
-
+- Gerar no SINAN NET, o arquivo de exportação de 
