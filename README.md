@@ -165,4 +165,11 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 - Gerar no SINAN NET, o arquivo de exportação de "Sifilis em gestante" (sifgenet.dbf), copiar o arquivo e colar na subpasta "dbf" dentro do diretório do "auto_regi";
 - Os arquivos resultantes do processamento do relatório 12 estarão na subpasta "C:\auto_regi\rel\rel12".
 
+**Relatório 13**  
+
+- Gerar no SINAN NET, o arquivo de exportação de "notificações de surto" (nsurtnet.dbf), copiar o arquivo e colar na subpasta "dbf" dentro do diretório do "auto_regi";
+- Os arquivos resultantes do processamento do relatório 13 estarão na subpasta "C:\auto_regi\rel\rel13".
+
+
+
 
