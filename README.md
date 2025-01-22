@@ -176,6 +176,6 @@ Não sabe como executar um arquivo executável usando o prompt do Windows? Abaix
 https://pt.wikihow.com/Executar-Arquivos-Exe-no-Cmd-no-Windows-ou-Mac  
 https://giovanidacruz.com.br/como-abrir-um-executavel-pelo-prompt-de-comando/  
 
-
+![x](/pictures/tube_do.jpg)  
 
 
