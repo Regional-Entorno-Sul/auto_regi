@@ -184,7 +184,7 @@ No início do programa será mostrado os arquivos detectados para a geração do
   
 ![x](/pictures/auto_regi_cmd2.jpg)  
 
-
+Abaixo temos um exemplo de processamento dos dados de acidente de trabalho grave usado na geração do "relatório 1".
 
 ![x](/pictures/auto_regi_cmd3.jpg)  
 
