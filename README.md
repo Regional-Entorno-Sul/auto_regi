@@ -196,6 +196,6 @@ Usando a opção --list, o processamento ficará restrito somente aos municipios
 
 ![x](/pictures/auto_regi_listmuns.jpg)  
 
-
+![x](/pictures/auto_regi_listmuns2.jpg)  
 
 
