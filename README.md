@@ -176,6 +176,8 @@ Não sabe como executar um arquivo executável usando o prompt do Windows? Abaix
 https://pt.wikihow.com/Executar-Arquivos-Exe-no-Cmd-no-Windows-ou-Mac  
 https://giovanidacruz.com.br/como-abrir-um-executavel-pelo-prompt-de-comando/  
 
+Abaixo temos um exemplo do uso do "auto_regi" usando o parâmetro --date.  
+
 ![x](/pictures/auto_regi_cmd1.jpg)  
 
 
