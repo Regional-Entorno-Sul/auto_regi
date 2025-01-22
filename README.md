@@ -180,7 +180,7 @@ Abaixo temos um exemplo do uso do "auto_regi" usando o parâmetro --date.
 
 ![x](/pictures/auto_regi_cmd1.jpg)  
 
-
+No início do programa será mostrado os arquivos detectados para a geração dos relatórios. Observe que somente será ou serão gerados os relatórios cujos arquivos de exportação estiverem disponíveis nas subpastas correspondentes e que devem ser providenciadas pelo usuário anteriormente à execução do programa.  
 
 ![x](/pictures/auto_regi_cmd2.jpg)  
 
