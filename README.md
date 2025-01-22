@@ -170,7 +170,11 @@ Copiar os arquivos abaixo e colar na subpasta "dbf" dentro do diretório do "aut
 - Gerar no SINAN NET, o arquivo de exportação de "notificações de surto" (nsurtnet.dbf), copiar o arquivo e colar na subpasta "dbf" dentro do diretório do "auto_regi";
 - Os arquivos resultantes do processamento do relatório 13 estarão na subpasta "C:\auto_regi\rel\rel13".
 
-Quando os arquivos para a geração dos relatórios estiverem nas subpastas correspondentes conforme orientado acima, o usuário poderá rodar o "auto_regi" para o processamento dos dados.
+Quando os arquivos para a geração dos relatórios estiverem nas subpastas correspondentes conforme orientado acima, o usuário poderá rodar o "auto_regi" para o processamento dos dados. 
+
+Não sabe como executar um arquivo executável usando o prompt do Windows? Abaixo há alguns sites que ensinam como fazê-lo:
+https://pt.wikihow.com/Executar-Arquivos-Exe-no-Cmd-no-Windows-ou-Mac
+https://giovanidacruz.com.br/como-abrir-um-executavel-pelo-prompt-de-comando/
 
 
 
