@@ -184,3 +184,10 @@ No início do programa será mostrado os arquivos detectados para a geração do
   
 ![x](/pictures/auto_regi_cmd2.jpg)  
 
+
+
+![x](/pictures/auto_regi_cmd3.jpg)  
+
+
+
+
