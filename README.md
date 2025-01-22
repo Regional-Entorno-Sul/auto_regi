@@ -190,8 +190,6 @@ Abaixo temos um exemplo de processamento dos dados de acidente de trabalho grave
 
 No final do programa é apresentado quais relatórios foram gerados tendo como base os arquivos que o usuário disponibilizou nas subpastas para serem processados pelo "auto_regi".
 
-![x](/pictures/auto_regi_cmd3.jpg)  
-
-
+![x](/pictures/auto_regi_cmd4.jpg)  
 
 
