@@ -192,7 +192,9 @@ No final do programa é apresentado quais relatórios foram gerados tendo como b
 
 ![x](/pictures/auto_regi_cmd4.jpg)  
 
-Usando a opção --list, o processamento ficará restrito somente aos municipios que tiverem o seu código inserido dentro do arquivo "list_muns.txt", o qual deverá ser preenchido pelo usuário.  
+Usando a opção --list, o processamento ficará restrito somente aos municipios que tiverem o seu código inserido dentro do arquivo "list_muns.txt", o qual deverá ser preenchido pelo usuário. Esse arquivo se encontra na subpasta "set" situada no diretório principal do "auto_regi".
+
+
 
 
 
