@@ -182,4 +182,5 @@ Abaixo temos um exemplo do uso do "auto_regi" usando o parâmetro --date.
 
 
 
+![x](/pictures/auto_regi_cmd2.jpg)  
 
