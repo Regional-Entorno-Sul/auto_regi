@@ -200,4 +200,7 @@ No arquivo "list_muns.txt" que pode ser editado no bloco de notas do Windows, o 
 
 ![x](/pictures/auto_regi_listmuns2.jpg)  
 
-
+Depois de feita a edição do arquivo "list_muns.txt", o usuário deve salvar o arquivo e rodar o "auto_regi" para que a alteração realizada tenha efeito.  
+Lembramos também que a opção --list, só está disponível nos relatórios 2,4,6,8 e 10.  
+  
+  
