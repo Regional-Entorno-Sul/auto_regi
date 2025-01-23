@@ -236,7 +236,7 @@ Resultado do escaneamento do executável utilizando o serviço do Kaspersky Thre
 
 O "auto_regi" é um programa de código aberto. O código fonte está disponível ao usuário quando este faz o download do software na área de releases. 
   
-  
+![x](/pictures/no_viruses.jpg)    
 
 
 
