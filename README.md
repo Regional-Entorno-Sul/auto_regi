@@ -223,10 +223,12 @@ __run( "c:\auto_regi\exe\hexed -e ac0 43 4f 4e 54 45 58 41 4d 00 00 00 43 - c:\a
   
 ## Segurança  
 
-O próprio usuário pode verificar se o executável é seguro para uso utilizando algum serviço online gratuito para esse fim, como o VirusTotal (https://www.virustotal.com/gui/home/upload) e o Kaspersky Threat Intelligence Portal (https://opentip.kaspersky.com)
+O próprio usuário pode verificar se o executável (auto_regi.exe) é seguro para uso utilizando algum serviço online gratuito para esse fim, como o VirusTotal (https://www.virustotal.com/gui/home/upload) e o Kaspersky Threat Intelligence Portal (https://opentip.kaspersky.com)
 Basta fazer o upload do arquivo executável e aguardar o resultado.
 
 ![x](/pictures/exe_file.jpg)  
+
+Resultado do escaneamento do executável utilizando o serviço do Kaspersky Threat Intelligence Portal.
 
 ![x](/pictures/no_viruses.jpg)  
 
