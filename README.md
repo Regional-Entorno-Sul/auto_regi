@@ -198,6 +198,7 @@ Usando a opção --list, o processamento ficará restrito somente aos municipios
 
 No arquivo "list_muns.txt" que pode ser editado no bloco de notas do Windows, o usuário deverá inserir o código IBGE com 06 dígitos do município de interesse, delimitado por aspas duplas, conforme mostra a figura seguinte.  
   
+  
 ![x](/pictures/auto_regi_listmuns2.jpg)  
 
 Depois de feita a edição do arquivo "list_muns.txt", o usuário deve salvar o arquivo e rodar o "auto_regi" para que a alteração realizada tenha efeito.  
