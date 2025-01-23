@@ -212,8 +212,8 @@ O "auto_regi" utiliza alguns executáveis de terceiros para que alguns processos
 - cecho.exe: possibilita texto com cores em arquivos batch, como o usado no "auto_regi" para auxiliar na compilação do executável. Disponível em: https://github.com/lordmulder/cecho
 - hexed.exe: é um editor hexadecimal que roda em linha de comando. É utilizado no "auto_regi" para alterar o tipo de campo em um arquivo dbf específico (hansnet.dbf).
 
-__run( "c:\auto_regi\exe\hexed -e 840 43 4f 4e 54 52 45 47 00 00 00 00 43 - c:\auto_regi\tmp\cofi\hans\hansnet.dbf" )
-__run( "c:\auto_regi\exe\hexed -e ac0 43 4f 4e 54 45 58 41 4d 00 00 00 43 - c:\auto_regi\tmp\cofi\hans\hansnet.dbf" )
+__run( "c:\auto_regi\exe\hexed -e 840 43 4f 4e 54 52 45 47 00 00 00 00 43 - c:\auto_regi\tmp\cofi\hans\hansnet.dbf" )  
+__run( "c:\auto_regi\exe\hexed -e ac0 43 4f 4e 54 45 58 41 4d 00 00 00 43 - c:\auto_regi\tmp\cofi\hans\hansnet.dbf" )  
 
 Disponível em: https://sourceforge.net/projects/hexed/  
 
