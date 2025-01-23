@@ -223,7 +223,10 @@ __run( "c:\auto_regi\exe\hexed -e ac0 43 4f 4e 54 45 58 41 4d 00 00 00 43 - c:\a
   
 ## Segurança  
 
+O próprio usuário pode 
 
+
+https://www.virustotal.com/gui/home/upload
   
   
 
