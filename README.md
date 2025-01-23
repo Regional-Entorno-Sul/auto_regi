@@ -1,6 +1,6 @@
 # **auto_regi**
 
-O auto_regi é um programa que automatiza alguns processos usados na Vigilância Epidemiológica da Regional de Saúde (mas também pode ser usado em SMS e na SES). Os processos são referentes aos indicadores 06, 13 e 14 da última atualização do caderno de indicadores do PQAVS
+O "auto_regi" é um programa que automatiza alguns processos usados na Vigilância Epidemiológica da Regional de Saúde (mas também pode ser usado em SMS e na SES). Os processos são referentes aos indicadores 06, 13 e 14 da última atualização do caderno de indicadores do PQAVS
 [PQA-VS 2023](https://www.gov.br/saude/pt-br/acesso-a-informacao/acoes-e-programas/pqa-vs/publicacoes-tecnicas/caderno-de-indicadores-programa-de-qualificacao-das-acoes-de-vigilancia-em-saude-2023), [projeto de cofinanciamento](https://github.com/Regional-Entorno-Sul/auto_regi/blob/main/Propostas%20de%20Cofinanciamento%20SUVISA%20final%20-%2004-12-2023.pdf) e outros processos de rotina da Vigilância.
 
 Relatórios gerados pelo auto_regi:
@@ -204,4 +204,14 @@ No arquivo "list_muns.txt" que pode ser editado no bloco de notas do Windows, o 
 Depois de feita a edição do arquivo "list_muns.txt", o usuário deve salvar o arquivo e rodar o "auto_regi" para que a alteração realizada tenha efeito.  
 Lembramos também que a opção --list, só está disponível nos relatórios 2,4,6,8 e 10.  
   
-  
+## Créditos  
+
+O "auto_regi" utiliza 
+
+
+
+
+
+
+
+
