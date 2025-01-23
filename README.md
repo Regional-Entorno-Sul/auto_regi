@@ -221,7 +221,9 @@ cecho.exe red black "Fim do script. Pressione qualquer tecla para continuar..."
 __run( "c:\auto_regi\exe\hexed -e 840 43 4f 4e 54 52 45 47 00 00 00 00 43 - c:\auto_regi\tmp\cofi\hans\hansnet.dbf" )  
 __run( "c:\auto_regi\exe\hexed -e ac0 43 4f 4e 54 45 58 41 4d 00 00 00 43 - c:\auto_regi\tmp\cofi\hans\hansnet.dbf" )  
   
-  
+## Segurança  
+
+
   
   
 
