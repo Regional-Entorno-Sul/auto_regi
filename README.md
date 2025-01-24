@@ -238,7 +238,7 @@ O "auto_regi" é um programa de código aberto. O código fonte (auto_regi.prg) 
   
 ![x](/pictures/src_prg.jpg)  
 
-Foi desenvolvido usando a linguagem Harbour (https://harbour.github.io/) que acessa arquivos DBF (usado na maioria dos relatórios) nativamente, sem precisar de drivers, pontes ODBC ou outros recursos para o processamento desse tipo de arquivo.  
+Foi desenvolvido usando a linguagem Harbour (https://harbour.github.io/) que acessa arquivos DBF (usado na maioria dos relatórios) nativamente, sem precisar de drivers, pontes ODBC ou outros recursos para o acesso e processamento desse tipo de arquivo.  
 Para compilar o executável, há um arquivo de lote (comp_prg.bat) que facilita o processo. 
 
 ![x](/pictures/batch_file.jpg)  
