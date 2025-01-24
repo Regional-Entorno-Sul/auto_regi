@@ -236,7 +236,9 @@ Resultado do escaneamento do executável utilizando o serviço do Kaspersky Thre
 
 O "auto_regi" é um programa de código aberto. O código fonte (auto_regi.prg) está disponível ao usuário quando este faz o download do software na área de releases. 
   
-![x](/pictures/src_prg.jpg)    
+![x](/pictures/src_prg.jpg)  
+
+Foi desenvolvido usando a linguagem Harbour (https://harbour.github.io/) que acessa arquivos DBF (usado na maioria dos relatórios) nativamente, sem precisar de drivers, pontes ODBC ou outros recursos para o processamento desse tipo de arquivo.  
 
 
 
